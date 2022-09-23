@@ -21,6 +21,8 @@ In this article, you will learn:
 
 ### Project Screenshot
 
+![Local Storage](https://user-images.githubusercontent.com/89385798/191965248-3f45aee0-0ea1-43b6-9ee8-e8c179dabd86.png)
+
 ![](./design/desktop-preview.jpg)
 
 ### Links
