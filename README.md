@@ -46,13 +46,13 @@ I'll use this section to recap over some of the major learnings while working th
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-- - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-- - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
 ## Author
 
 - Website - [dicksonboateng.netflify.app](https://dicksonboateng.netlify.app)
-- LinkedIn - [@dboatengx](https://www.linkedin.com/in/dboatengx)
+- LinkedIn - [@Boateng Dickson](https://www.linkedin.com/in/dboatengx)
 - Twitter - [@dboatengx](https://www.twitter.com/dboatengx)
 
 ## Acknowledgments
